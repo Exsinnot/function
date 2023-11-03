@@ -1,0 +1,4 @@
+name:EXSINNOT
+age:20
+Thai:A
+ENG:A
