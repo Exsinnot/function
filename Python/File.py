@@ -4,7 +4,6 @@ with open("Python/Test/Data1.txt","r") as F:
         data.append(x.strip().split(":"))
 
 data[0][1] = "EXSINNOT"
-print(data)
 
 with open("Python/Test/Data1.txt","w") as F:
     for x in data:
